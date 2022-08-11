@@ -1,2 +1,0 @@
-# Kisenco
-Tienda Online 
